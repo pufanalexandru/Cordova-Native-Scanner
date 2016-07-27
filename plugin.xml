@@ -3,7 +3,7 @@
         id="com.example.hello"
         version="0.7.0">
 
-  <name>Hello</name>
+  <name>Native Scanner</name>
 
   <engines>
     <engine name="cordova" version=">=3.4.0"/>
