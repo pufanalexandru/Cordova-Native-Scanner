@@ -5,4 +5,5 @@ This was created for a Tousei 901S device, but may work on other devices too.
 Unlike other barcode scanner plugins, this one does not use the device camera, but the native scanner.
 It only works on Android (tested on Android 4.2.2).
 
+`cordova plugin add https://github.com/pufanalexandru/Cordova-Native-Scanner.git`
 
